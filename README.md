@@ -75,4 +75,4 @@ The file includes timestamp and teacher's voice transcript content, removing voi
 
 
 If you use the dataset, please cite this paper:
-CAA: A Multimodal Dataset for Classroom Atmosphere Assessment in Real-world Situations.
+A Classroom Atmosphere Assessment Approach Based on a New Multimodal Assessment Dataset in Real-world Situations.
